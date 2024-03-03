@@ -74,4 +74,4 @@ MY_MAIL=example@gmail.com
 
 ## Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/AUTH-PROJECT-MERN-STACK/main/AUTH%20PROJECT%20MERN%20STACK.png)
