@@ -6,7 +6,7 @@ It provides user **authentication** and **authorization** features, allowing use
 
 ## Hosted Link For Demo With Video
 
-### [Frontend Live](https://frontend-lpu.vercel.app/) | [Backend Live](https://backendforlpu.onrender.com/) | [Video Link](#hshs)
+### [Frontend Live](https://auth-project-mern-stack.vercel.app) | [Backend Live](https://backendforlpu.onrender.com) | [Video Link](#hshs)
 
 ## Backend Tech Stack
 
@@ -51,7 +51,7 @@ MONGODB_URI=your_mongo_db_connection_string
 
 JWT_SECRET=your_secret_key_for_jwt
 
-FRONTEND_URL="https://frontend-lpu.vercel.app"
+FRONTEND_URL="https://auth-project-mern-stack.vercel.app"
 
 SMTP_HOST=sandbox.smtp.mailtrap.io
 SMTP_PORT=2525
