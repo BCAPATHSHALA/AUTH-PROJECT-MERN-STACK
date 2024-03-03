@@ -6,7 +6,7 @@ It provides user **authentication** and **authorization** features, allowing use
 
 ## Hosted Link For Demo With Video
 
-### [Frontend Live](https://auth-project-mern-stack.vercel.app) | [Backend Live](https://backendforlpu.onrender.com) | [Video Link](#hshs)
+### [Frontend Live](https://auth-project-mern-stack.vercel.app) | [Backend Live](https://backendforlpu.onrender.com) | [Video Link](https://youtu.be/mO-7eyeVPiA)
 
 ## Backend Tech Stack
 
