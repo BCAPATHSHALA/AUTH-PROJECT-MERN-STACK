@@ -7,7 +7,7 @@ const Footer = () => {
     <>
       <Flex
         width={"100vw"}
-        h={"10vh"}
+        h={"20vh"}
         alignItems="center"
         gap="4"
         padding={"2"}
