@@ -4,7 +4,6 @@ const Home = () => {
   return (
     <>
       <Flex
-        h={"100vh"}
         w={"100vw"}
         flexDirection={"column"}
         justifyContent={"center"}
